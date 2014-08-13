@@ -7,3 +7,12 @@ C:\C#\obj\x86\Release\USBCon.csproj.GenerateResource.Cache
 C:\C#\obj\x86\Release\USBCon.exe
 C:\C#\obj\x86\Release\USBCon.pdb
 C:\C#\obj\x86\Release\USBCon.csprojResolveAssemblyReference.cache
+C:\Users\dgarcia\Documents\GitHub\SPDBox\SPDBox\TestUSBConnection\bin\Release\USBCon.exe.config
+C:\Users\dgarcia\Documents\GitHub\SPDBox\SPDBox\TestUSBConnection\obj\x86\Release\USBCon.exe
+C:\Users\dgarcia\Documents\GitHub\SPDBox\SPDBox\TestUSBConnection\obj\x86\Release\USBCon.pdb
+C:\Users\dgarcia\Documents\GitHub\SPDBox\SPDBox\TestUSBConnection\bin\Release\USBCon.exe
+C:\Users\dgarcia\Documents\GitHub\SPDBox\SPDBox\TestUSBConnection\bin\Release\USBCon.pdb
+C:\Users\dgarcia\Documents\GitHub\SPDBox\SPDBox\TestUSBConnection\obj\x86\Release\USBCon.csprojResolveAssemblyReference.cache
+C:\Users\dgarcia\Documents\GitHub\SPDBox\SPDBox\TestUSBConnection\obj\x86\Release\USBCon.frmMain.resources
+C:\Users\dgarcia\Documents\GitHub\SPDBox\SPDBox\TestUSBConnection\obj\x86\Release\USBCon.Properties.Resources.resources
+C:\Users\dgarcia\Documents\GitHub\SPDBox\SPDBox\TestUSBConnection\obj\x86\Release\USBCon.csproj.GenerateResource.Cache
