@@ -101,7 +101,7 @@
             this.lbData.Location = new System.Drawing.Point(243, 53);
             this.lbData.Margin = new System.Windows.Forms.Padding(4);
             this.lbData.Name = "lbData";
-            this.lbData.Size = new System.Drawing.Size(519, 274);
+            this.lbData.Size = new System.Drawing.Size(799, 346);
             this.lbData.TabIndex = 4;
             // 
             // label1
