@@ -1,0 +1,9 @@
+C:\C#\bin\Release\USBCon.exe.config
+C:\C#\bin\Release\USBCon.exe
+C:\C#\bin\Release\USBCon.pdb
+C:\C#\obj\x86\Release\USBCon.frmMain.resources
+C:\C#\obj\x86\Release\USBCon.Properties.Resources.resources
+C:\C#\obj\x86\Release\USBCon.csproj.GenerateResource.Cache
+C:\C#\obj\x86\Release\USBCon.exe
+C:\C#\obj\x86\Release\USBCon.pdb
+C:\C#\obj\x86\Release\USBCon.csprojResolveAssemblyReference.cache

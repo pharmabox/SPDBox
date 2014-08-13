@@ -1,0 +1,8 @@
+C:\C#\obj\x86\Debug\USBCon.frmMain.resources
+C:\C#\obj\x86\Debug\USBCon.Properties.Resources.resources
+C:\C#\obj\x86\Debug\USBCon.csproj.GenerateResource.Cache
+C:\C#\bin\Debug\WindowsFormsApplication2.exe
+C:\C#\bin\Debug\WindowsFormsApplication2.pdb
+C:\C#\obj\x86\Debug\USBCon.csprojResolveAssemblyReference.cache
+C:\C#\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\C#\obj\x86\Debug\WindowsFormsApplication2.pdb
