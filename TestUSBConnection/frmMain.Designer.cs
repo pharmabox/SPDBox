@@ -47,7 +47,7 @@
             // 
             this.btnSend.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSend.Location = new System.Drawing.Point(966, 570);
-            this.btnSend.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSend.Margin = new System.Windows.Forms.Padding(4);
             this.btnSend.Name = "btnSend";
             this.btnSend.Size = new System.Drawing.Size(216, 78);
             this.btnSend.TabIndex = 0;
@@ -59,7 +59,7 @@
             // 
             this.btnGetPortNames.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.btnGetPortNames.Location = new System.Drawing.Point(18, 485);
-            this.btnGetPortNames.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnGetPortNames.Margin = new System.Windows.Forms.Padding(4);
             this.btnGetPortNames.Name = "btnGetPortNames";
             this.btnGetPortNames.Size = new System.Drawing.Size(216, 78);
             this.btnGetPortNames.TabIndex = 1;
@@ -74,7 +74,7 @@
             this.lbPorts.FormattingEnabled = true;
             this.lbPorts.ItemHeight = 18;
             this.lbPorts.Location = new System.Drawing.Point(18, 53);
-            this.lbPorts.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lbPorts.Margin = new System.Windows.Forms.Padding(4);
             this.lbPorts.Name = "lbPorts";
             this.lbPorts.Size = new System.Drawing.Size(214, 418);
             this.lbPorts.TabIndex = 2;
@@ -83,7 +83,7 @@
             // 
             this.btnComPortInfo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.btnComPortInfo.Location = new System.Drawing.Point(18, 570);
-            this.btnComPortInfo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnComPortInfo.Margin = new System.Windows.Forms.Padding(4);
             this.btnComPortInfo.Name = "btnComPortInfo";
             this.btnComPortInfo.Size = new System.Drawing.Size(216, 78);
             this.btnComPortInfo.TabIndex = 3;
@@ -99,9 +99,9 @@
             this.lbData.FormattingEnabled = true;
             this.lbData.ItemHeight = 18;
             this.lbData.Location = new System.Drawing.Point(243, 53);
-            this.lbData.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lbData.Margin = new System.Windows.Forms.Padding(4);
             this.lbData.Name = "lbData";
-            this.lbData.Size = new System.Drawing.Size(937, 508);
+            this.lbData.Size = new System.Drawing.Size(519, 274);
             this.lbData.TabIndex = 4;
             // 
             // label1
@@ -139,7 +139,7 @@
             this.Controls.Add(this.btnSend);
             this.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
